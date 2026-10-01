@@ -38,6 +38,12 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 - **SE050** NXP Semiconductors EdgeLock SE050 Plug and Trust Secure Element (Optional)
 - **PoE PD** - Power Supply.
 
+## Schematic
+
+The full schematic is available as a SVG file:
+
+![Schematics](SHC_w5500_evb_pico2_LoRa2021F33-2G4.JPG)
+
 ## Board 3D Render
 
 ![3D](LoRa2021F33-2G4-3D.JPG)
