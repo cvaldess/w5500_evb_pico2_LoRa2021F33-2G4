@@ -2,7 +2,7 @@
 
 A custom PCB carrier board built around the **WIZnet W5500-EVB-Pico2** (an RP2350 with an **on-board W5500 Ethernet** controller) and an **LoRa2021F33-2G4: 2W High-Power, High-Speed Multi-Band LR2021 Wireless Communication Module**, in a single compact design for Meshtastic applications, low-cost Ethernet MQTT Gateway and Reticulum transport node.
 
-![LoRa2021F33-2G4](LoRa2021F33-2G4-2D.JPG)
+![LoRa2021F33-2G4](LoRa2021F33-2G4-Cover.png)
 
 ## Where to buy
 
@@ -43,6 +43,10 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 The full schematic is available as a SVG file:
 
 ![Schematics](SHC_w5500_evb_pico2_LoRa2021F33-2G4.JPG)
+
+## Board image
+
+![LoRa2021F33-2G4](LoRa2021F33-2G4-2D.JPG)
 
 ## Board 3D Render
 
